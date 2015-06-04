@@ -163,7 +163,7 @@ public class HelloCardActivity extends Activity
 				str1 += "\n";
 				str1 += articles.getJSONObject(1).getString("author");
 				str1 += articles.getJSONObject(1).getString("published");
-				etResponse1.setText(str1);it 
+				etResponse1.setText(str1);it
 
 				str2 += articles.getJSONObject(2).getString("title");
 				str2 += "\n";
