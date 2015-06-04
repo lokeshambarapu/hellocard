@@ -21,5 +21,9 @@
 		<activity
 			android:name=".HelloCardListActivity"
 			android:label="Hello Card List" />
+		<activity
+			android:name=".data"
+			android:label="data" />
+
 	</application>
 </manifest> 
